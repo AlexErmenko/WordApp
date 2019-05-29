@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.0": {
+      "Microsoft.DependencyValidation.Analyzers/0.10.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System"
+        ]
+      },
+      "Microsoft.Office.Interop.Word/15.0.4797.1003": {
+        "type": "package",
+        "compile": {
+          "lib/net20/Microsoft.Office.Interop.Word.dll": {}
+        },
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Word.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.DependencyValidation.Analyzers/0.10.0": {
+      "sha512": "BxMp25YgPSBrqzlIxkD3sITWAZaWVg4y/cjyEuUThLy7TJY+jFrPNYf7M/hH9OCHA4NXD0/XcOMgijZjBpu2Rg==",
+      "type": "package",
+      "path": "microsoft.dependencyvalidation.analyzers/0.10.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/Microsoft.DependencyValidation.Analyzers.dll",
+        "analyzers/dotnet/cs/Microsoft.DependencyValidation.Analyzers.resources.dll",
+        "analyzers/dotnet/de/Microsoft.DependencyValidation.Analyzers.resources.dll",
+        "analyzers/dotnet/es/Microsoft.DependencyValidation.Analyzers.resources.dll",
+        "analyzers/dotnet/fr/Microsoft.DependencyValidation.Analyzers.resources.dll",
+        "analyzers/dotnet/it/Microsoft.DependencyValidation.Analyzers.resources.dll",
+        "analyzers/dotnet/ja/Microsoft.DependencyValidation.Analyzers.resources.dll",
+        "analyzers/dotnet/ko/Microsoft.DependencyValidation.Analyzers.resources.dll",
+        "analyzers/dotnet/pl/Microsoft.DependencyValidation.Analyzers.resources.dll",
+        "analyzers/dotnet/pt-BR/Microsoft.DependencyValidation.Analyzers.resources.dll",
+        "analyzers/dotnet/ru/Microsoft.DependencyValidation.Analyzers.resources.dll",
+        "analyzers/dotnet/tr/Microsoft.DependencyValidation.Analyzers.resources.dll",
+        "analyzers/dotnet/zh-HANS/Microsoft.DependencyValidation.Analyzers.resources.dll",
+        "analyzers/dotnet/zh-HANT/Microsoft.DependencyValidation.Analyzers.resources.dll",
+        "microsoft.dependencyvalidation.analyzers.0.10.0.nupkg.sha512",
+        "microsoft.dependencyvalidation.analyzers.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "Microsoft.Office.Interop.Word/15.0.4797.1003": {
+      "sha512": "J8Et7cMnQTlB4oBh70f8drHQr0kB9jWp3d6tgvrs9eDb+8G/Aq83JGgCODSC6IW21Mu7w5otzfsWU8q7wnehGw==",
+      "type": "package",
+      "path": "microsoft.office.interop.word/15.0.4797.1003",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Microsoft.Office.Interop.Word.dll",
+        "microsoft.office.interop.word.15.0.4797.1003.nupkg.sha512",
+        "microsoft.office.interop.word.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.0": [
+      "Microsoft.DependencyValidation.Analyzers >= 0.10.0",
+      "Microsoft.Office.Interop.Word >= 15.0.4797.1003"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Visual Studio Azure DevOps Repository\\Word\\Word Library\\Word Library.csproj",
+      "projectName": "Word Library",
+      "projectPath": "D:\\Visual Studio Azure DevOps Repository\\Word\\Word Library\\Word Library.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Visual Studio Azure DevOps Repository\\Word\\Word Library\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net40"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net40": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net40": {
+        "dependencies": {
+          "Microsoft.DependencyValidation.Analyzers": {
+            "target": "Package",
+            "version": "[0.10.0, )"
+          },
+          "Microsoft.Office.Interop.Word": {
+            "target": "Package",
+            "version": "[15.0.4797.1003, )"
+          }
+        }
+      }
+    }
+  }
+}

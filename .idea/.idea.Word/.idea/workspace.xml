@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db97cbf5-9c63-43d4-8f91-498b7eac80e9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Word Application/TextFormatter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Word Application/Start.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <marker date="1559103813485" expanded="false" signature="6:41" ph="..." />
+                <marker date="1559103813485" expanded="true" signature="69:252" ph="{...}" />
+                <marker date="1559103813485" expanded="true" signature="106:250" ph="{...}" />
+                <marker date="1559103813485" expanded="false" signature="210:247" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="WinFormsEditor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Word Application/Search.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <marker date="1559103813349" expanded="false" signature="6:36" ph="..." />
+                <marker date="1559103813349" expanded="true" signature="64:236" ph="{...}" />
+                <marker date="1559103813349" expanded="true" signature="89:234" ph="{...}" />
+                <marker date="1559103813349" expanded="false" signature="95:143" ph="///   ффівфів ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Word Application/Main.cs">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+              <folding>
+                <marker date="1559103813586" expanded="true" signature="6:330" ph="..." />
+                <marker date="1559103813586" expanded="true" signature="358:8012" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="394:8010" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="522:838" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="1157:1545" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="1794:2453" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="1921:2449" ph="/* Range = Document.Paragraphs[1].Range; ... */" />
+                <marker date="1559103813586" expanded="true" signature="2484:3185" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="2546:3181" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="2686:3145" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="2743:2864" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="3023:3139" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="3497:3924" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="3526:3610" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="3672:3743" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="3954:4535" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="4052:4531" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="4219:4294" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="4354:4526" ph="/* Range = Document.Paragraphs[2].Range; ... */" />
+                <marker date="1559103813586" expanded="true" signature="4558:5543" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="5605:6787" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="5925:5935" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="6030:6540" ph="/* if ( Range == null ) ... */" />
+                <marker date="1559103813586" expanded="true" signature="6841:6946" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="7370:7694" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="7419:7530" ph="{...}" />
+                <marker date="1559103813586" expanded="true" signature="7752:7869" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="WinFormsEditor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Word Application/Start.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Word Application/Main.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Word Application/Search.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Word Application/TextFormatter.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Word Application/Main.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Marselin" pattern="" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="640" />
+    <option name="width" value="640" />
+    <option name="height" value="984" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Word" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Word" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Word Application" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Word" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Word Application" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Word" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Word Application" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assemblies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Word" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Word Application" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Main.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Word" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Word Library" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="Scratches" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="D:/AndroidSDK" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Admin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db97cbf5-9c63-43d4-8f91-498b7eac80e9" name="Default Changelist" comment="" />
+      <created>1559100140048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559100140048</updated>
+      <workItem from="1559100142118" duration="4394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4394000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info id="DB Browser" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32930845" />
+      <window_info anchor="bottom" id="TTT" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TeamCity" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Designer Toolbox" side_tool="true" weight="0.3296875" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Word Application/TextFormatter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Word Application/Start.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <marker date="1559103813485" expanded="false" signature="6:41" ph="..." />
+            <marker date="1559103813485" expanded="true" signature="69:252" ph="{...}" />
+            <marker date="1559103813485" expanded="true" signature="106:250" ph="{...}" />
+            <marker date="1559103813485" expanded="false" signature="210:247" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="WinFormsEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Word Application/Search.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <marker date="1559103813349" expanded="false" signature="6:36" ph="..." />
+            <marker date="1559103813349" expanded="true" signature="64:236" ph="{...}" />
+            <marker date="1559103813349" expanded="true" signature="89:234" ph="{...}" />
+            <marker date="1559103813349" expanded="false" signature="95:143" ph="///   ффівфів ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Word Application/Main.cs">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+          <folding>
+            <marker date="1559103813586" expanded="true" signature="6:330" ph="..." />
+            <marker date="1559103813586" expanded="true" signature="358:8012" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="394:8010" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="522:838" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="1157:1545" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="1794:2453" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="1921:2449" ph="/* Range = Document.Paragraphs[1].Range; ... */" />
+            <marker date="1559103813586" expanded="true" signature="2484:3185" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="2546:3181" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="2686:3145" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="2743:2864" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="3023:3139" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="3497:3924" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="3526:3610" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="3672:3743" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="3954:4535" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="4052:4531" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="4219:4294" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="4354:4526" ph="/* Range = Document.Paragraphs[2].Range; ... */" />
+            <marker date="1559103813586" expanded="true" signature="4558:5543" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="5605:6787" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="5925:5935" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="6030:6540" ph="/* if ( Range == null ) ... */" />
+            <marker date="1559103813586" expanded="true" signature="6841:6946" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="7370:7694" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="7419:7530" ph="{...}" />
+            <marker date="1559103813586" expanded="true" signature="7752:7869" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="WinFormsEditor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Marselin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="Marselin" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

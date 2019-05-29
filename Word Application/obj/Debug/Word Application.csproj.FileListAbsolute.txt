@@ -1,0 +1,13 @@
+D:\Visual Studio Azure DevOps Repository\Word\Word Application\bin\Debug\Word Application.xml
+D:\Visual Studio Azure DevOps Repository\Word\Word Application\bin\Debug\Word Application.exe
+D:\Visual Studio Azure DevOps Repository\Word\Word Application\bin\Debug\Word Application.exe.CodeAnalysisLog.xml
+D:\Visual Studio Azure DevOps Repository\Word\Word Application\bin\Debug\Word Application.exe.lastcodeanalysissucceeded
+D:\Visual Studio Azure DevOps Repository\Word\Word Application\obj\Debug\Word Application.csprojAssemblyReference.cache
+D:\Visual Studio Azure DevOps Repository\Word\Word Application\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Visual Studio Azure DevOps Repository\Word\Word Application\obj\Debug\Word Application.csproj.ResolveComReference.cache
+D:\Visual Studio Azure DevOps Repository\Word\Word Application\obj\Debug\Word_Application.Main.resources
+D:\Visual Studio Azure DevOps Repository\Word\Word Application\obj\Debug\Word_Application.Properties.Resources.resources
+D:\Visual Studio Azure DevOps Repository\Word\Word Application\obj\Debug\Word_Application.Start.resources
+D:\Visual Studio Azure DevOps Repository\Word\Word Application\obj\Debug\Word Application.csproj.GenerateResource.cache
+D:\Visual Studio Azure DevOps Repository\Word\Word Application\obj\Debug\Word Application.csproj.CoreCompileInputs.cache
+D:\Visual Studio Azure DevOps Repository\Word\Word Application\obj\Debug\Word Application.exe

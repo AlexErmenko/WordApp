@@ -1,0 +1,7 @@
+D:\Visual Studio Azure DevOps Repository\Word\Word Library\bin\Debug\Word Library.xml
+D:\Visual Studio Azure DevOps Repository\Word\Word Library\bin\Debug\Word Library.dll
+D:\Visual Studio Azure DevOps Repository\Word\Word Library\bin\Debug\Word Library.dll.CodeAnalysisLog.xml
+D:\Visual Studio Azure DevOps Repository\Word\Word Library\bin\Debug\Word Library.dll.lastcodeanalysissucceeded
+D:\Visual Studio Azure DevOps Repository\Word\Word Library\obj\Debug\Word Library.csprojAssemblyReference.cache
+D:\Visual Studio Azure DevOps Repository\Word\Word Library\obj\Debug\Word Library.csproj.CoreCompileInputs.cache
+D:\Visual Studio Azure DevOps Repository\Word\Word Library\obj\Debug\Word Library.dll
