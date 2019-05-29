@@ -246,12 +246,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559100140048</updated>
-      <workItem from="1559100142118" duration="4394000" />
+      <workItem from="1559100142118" duration="4475000" />
     </task>
+    <task id="LOCAL-00001" summary="q">
+      <created>1559105896844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559105896844</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4394000" />
+    <option name="totallyTimeSpent" value="4475000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -267,10 +275,10 @@
     <layout>
       <window_info id="DB Browser" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2584814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32930845" />
+      <window_info anchor="bottom" id="Build" weight="0.32930845" />
       <window_info anchor="bottom" id="TTT" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -279,7 +287,7 @@
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32995495" />
       <window_info anchor="bottom" id="TeamCity" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -300,6 +308,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="q" />
+    <option name="LAST_COMMIT_MESSAGE" value="q" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
