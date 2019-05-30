@@ -23,7 +23,10 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db97cbf5-9c63-43d4-8f91-498b7eac80e9" name="Default Changelist" comment="" />
+    <list default="true" id="db97cbf5-9c63-43d4-8f91-498b7eac80e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Word/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Word/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Word/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Word/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +34,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Word Application/TextFormatter.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
               <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <folding>
+                <marker date="1559103813637" expanded="false" signature="6:70" ph="..." />
+                <marker date="1559103813637" expanded="true" signature="98:300" ph="{...}" />
+                <marker date="1559103813637" expanded="true" signature="130:298" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,10 +71,9 @@
             <state relative-caret-position="154">
               <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding>
-                <marker date="1559103813349" expanded="false" signature="6:36" ph="..." />
                 <marker date="1559103813349" expanded="true" signature="64:236" ph="{...}" />
                 <marker date="1559103813349" expanded="true" signature="89:234" ph="{...}" />
-                <marker date="1559103813349" expanded="false" signature="95:143" ph="///   ффівфів ... " />
+                <marker date="1559103813349" expanded="false" signature="95:143" ph="///     ффівфів ... " />
               </folding>
             </state>
           </provider>
@@ -74,8 +81,8 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Word Application/Main.cs">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="418">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
               <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
               <folding>
                 <marker date="1559103813586" expanded="true" signature="6:330" ph="..." />
@@ -108,7 +115,7 @@
               </folding>
             </state>
           </provider>
-          <provider selected="true" editor-type-id="WinFormsEditor" />
+          <provider editor-type-id="WinFormsEditor" />
         </entry>
       </file>
     </leaf>
@@ -139,55 +146,10 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="SolutionExplorer" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Word" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Word" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Word Application" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Word" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Word Application" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Word" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Word Application" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Assemblies" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Word" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Word Application" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Main.cs" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Word" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Word Library" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="Scratches" />
-      <pane id="FileSystemExplorer" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -202,7 +164,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -247,6 +209,9 @@
       <option name="presentableId" value="Default" />
       <updated>1559100140048</updated>
       <workItem from="1559100142118" duration="4475000" />
+      <workItem from="1559106454187" duration="289000" />
+      <workItem from="1559140521794" duration="121000" />
+      <workItem from="1559192686670" duration="251000" />
     </task>
     <task id="LOCAL-00001" summary="q">
       <created>1559105896844</created>
@@ -259,7 +224,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4475000" />
+    <option name="totallyTimeSpent" value="5136000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -272,23 +237,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="DB Browser" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2584814" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26655897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Build" weight="0.32930845" />
-      <window_info anchor="bottom" id="TTT" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32995495" />
-      <window_info anchor="bottom" id="TeamCity" />
+      <window_info id="DB Browser" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -296,14 +250,26 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Designer Toolbox" side_tool="true" weight="0.3296875" />
-      <window_info anchor="right" id="Key Promoter X" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32930845" />
+      <window_info anchor="bottom" id="TTT" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="14" />
+      <window_info anchor="bottom" id="Unit Tests" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="bottom" id="Version Control" order="17" weight="0.32969433" />
+      <window_info anchor="bottom" id="TeamCity" order="18" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info active="true" anchor="right" id="Designer Toolbox" order="4" side_tool="true" visible="true" weight="0.32956383" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,6 +294,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <marker date="1559103813637" expanded="false" signature="6:70" ph="..." />
+            <marker date="1559103813637" expanded="true" signature="98:300" ph="{...}" />
+            <marker date="1559103813637" expanded="true" signature="130:298" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -337,7 +308,6 @@
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding>
             <marker date="1559103813485" expanded="false" signature="6:41" ph="..." />
-            <marker date="1559103813485" expanded="true" signature="69:252" ph="{...}" />
             <marker date="1559103813485" expanded="true" signature="106:250" ph="{...}" />
             <marker date="1559103813485" expanded="false" signature="210:247" ph="{...}" />
           </folding>
@@ -351,7 +321,6 @@
           <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding>
             <marker date="1559103813349" expanded="false" signature="6:36" ph="..." />
-            <marker date="1559103813349" expanded="true" signature="64:236" ph="{...}" />
             <marker date="1559103813349" expanded="true" signature="89:234" ph="{...}" />
             <marker date="1559103813349" expanded="false" signature="95:143" ph="///   ффівфів ... " />
           </folding>
@@ -359,8 +328,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Word Application/Main.cs">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="418">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
           <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
           <folding>
             <marker date="1559103813586" expanded="true" signature="6:330" ph="..." />
@@ -393,7 +362,7 @@
           </folding>
         </state>
       </provider>
-      <provider selected="true" editor-type-id="WinFormsEditor" />
+      <provider editor-type-id="WinFormsEditor" />
     </entry>
   </component>
   <component name="masterDetails">
